@@ -1,2 +1,14 @@
-# amradel752.github.io
-.NET Full Stack Developer Portfolio — Building Websites, Systems &amp; ERP That Help Businesses Grow.
+# Amr Adel — Portfolio
+
+Personal portfolio website for Amr Adel, 
+.NET Full Stack Developer.
+
+Built with: HTML, CSS, JavaScript
+
+🌐 Live: https://amradel752.github.io
+
+## What's Inside
+- About & Skills
+- Real Projects (ATM, Kiosk, ERP)
+- Experience Timeline
+- Contact & CV Download
